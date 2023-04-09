@@ -1,4 +1,19 @@
+body {
+    background-color: burlywood;
 
+}
+
+.card-header {
+    background-color: rgb(204, 218, 190);
+} 
+
+.card-footer {
+    background-color: rgb(204, 218, 190);
+}
+
+.boton {
+    background-color: rgb(231, 216, 178);
+}
 /* 
 
     You can write your own styles here...
